@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.name {
+  font-size: 12px;
+  font-style: italic;
+  background-color: antiquewhite;
+}
+
+.addr-style {
+  color: forestgreen;
+  font-weight: bold;
+}
+
+.gender-style {
+  color: dodgerblue;
+  font-style: italic;
+}
+
+.age-style {
+  color: indianred;
+  text-decoration: underline;
+}
